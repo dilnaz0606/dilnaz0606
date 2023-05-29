@@ -1,51 +1,46 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+</div>
+<div id="header" align="center">
+  <img src="https://phonoteka.org/uploads/posts/2022-02/1644403131_15-phonoteka-org-p-fon-kod-programmirovaniya-20.jpg"/>
+</div>
+<h1 align="center">Hi 👋, I'm Aidai</h1>
+<h3 align="center">A passionate backend developer from Russia</h3>
 
-###
+- 🔭 I’m currently working on [Gadgetarium](https://github.com/peaksoft-school/Gadgetarium-m4)
 
-<p align="left">My name is Dilnaz  and I'm a backend developer, from Kyrgyz Republic</p>
+- 🌱 I’m currently learning JUnit-test
 
-###
+- 👨‍💻 All of my projects are available at [https://web.telegram.org/k/#-1790985682](https://web.telegram.org/k/#-1790985682)
 
-<h2 align="left">About me</h2>
+- 📫 How to reach me dilnaz.tolubay@gmail.com
 
-###
+- ⚡ Fun fact I think I am smart
 
-<h4 align="left">🔭 I’m currently working on Gadjetarium<br>📚 I'm currently learning JUnit test <br>📫 How to reach me dilnaz.tolubay@gmail.com<br>🎲 Fun fact: I think i am smart</h4>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mbvaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbvaai" height="60" width="70" /></a>
+</p>
 
-###
 
-<h2 align="left">I code with  Intellij Idea</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="52" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" width="52" alt="tomcat logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+<h3 align="left">Languages and Tools:</h3>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="90" height="90"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML" width="90" height="90"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="React" width="90" height="90"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="90" height="90"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git-scm" alt="Fit-scm " width="90" height="90"/>&nbsp;
+  <br>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="90" height="90"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="90" height="90"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="90" height="90"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="90" height="90"/>&nbsp;
+  <br><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="90" height="90"/>&nbsp;
 </div>
 
-###
-
-<div  id="header' align="center">
-  <img  src="https://i.pinimg.com/564x/f2/85/a6/f285a672126437944f2546b9e7a8eb81.jpg "  />
-</div>
-
-
-###
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=aidai2004&theme=radical)](https://git.io/streak-stats)
