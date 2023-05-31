@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/564x/1f/63/f1/1f63f175e2b36f5f922b3f698f4aa559.jpg"/>
 </div>
-<h1 align="center">Hi 👋, I'm Aidai</h1>
+<h1 align="center">Hi 👋, I'm Dilnaz</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 - 🔭 I’m currently working on [Gadgetarium](https://github.com/peaksoft-school/Gadgetarium-m4)
@@ -14,12 +14,6 @@
 - 📫 How to reach me dilnaz.tolubay@gmail.com
 
 - ⚡ Fun fact I think I am smart
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mbvaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbvaai" height="60" width="70" /></a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
